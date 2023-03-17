@@ -1,0 +1,10 @@
+[    {        "question": "What is the capital city of France?",
+  "alt": ["Madrid", "Paris", "Rome"],
+  "correct": 2
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "alt": ["Jupiter", "Venus", "Mars"],
+        "correct": 1
+    }
+]
